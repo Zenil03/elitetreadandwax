@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a0b"/>
+      <stop offset="1" stop-color="#151516"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4d58a"/>
+      <stop offset="0.45" stop-color="#c99b46"/>
+      <stop offset="1" stop-color="#8c6328"/>
+    </linearGradient>
+    <linearGradient id="soft" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#cfb07a" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#cfb07a" stop-opacity="0.03"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="980" rx="34" fill="url(#bg)"/>
+  <rect x="34" y="32" width="832" height="916" rx="44" fill="none" stroke="#b98c3f" stroke-opacity="0.72" stroke-width="2"/>
+  <rect x="55" y="53" width="790" height="874" rx="34" fill="none" stroke="#e2bf7b" stroke-opacity="0.45" stroke-width="1.5"/>
+  <path d="M215 122c-31 108-37 235-4 357 37 140 118 250 212 354" fill="none" stroke="url(#gold)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M356 190c96-35 189-30 274 16" fill="none" stroke="url(#gold)" stroke-width="24" stroke-linecap="round"/>
+  <path d="M390 356c51 18 104 18 154-5" fill="none" stroke="#b6a291" stroke-width="8" stroke-linecap="round"/>
+  <path d="M534 357c18 44 9 83-29 116" fill="none" stroke="#8d8378" stroke-width="6" stroke-linecap="round"/>
+  <path d="M485 542c72 35 143 30 202-16" fill="none" stroke="#9d8069" stroke-width="8" stroke-linecap="round"/>
+  <path d="M115 725c172-88 355-108 558-59" fill="none" stroke="url(#gold)" stroke-width="4" stroke-dasharray="10 16"/>
+  <circle cx="116" cy="725" r="16" fill="url(#gold)"/>
+  <circle cx="673" cy="284" r="160" fill="url(#soft)"/>
+  <circle cx="748" cy="731" r="112" fill="none" stroke="#d5b26d" stroke-opacity="0.26" stroke-width="2"/>
+  <circle cx="181" cy="245" r="84" fill="none" stroke="#d5b26d" stroke-opacity="0.18" stroke-width="2"/>
+  <text x="88" y="870" font-family="Georgia, serif" font-size="150" fill="#be9650" fill-opacity="0.12">01</text>
+  <text x="92" y="910" font-family="Georgia, serif" font-size="38" letter-spacing="4" fill="#ddb973">THREAD &amp; WAX</text>
+</svg>

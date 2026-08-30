@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0a"/><stop offset="1" stop-color="#171718"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3d38a"/><stop offset="0.5" stop-color="#c69743"/><stop offset="1" stop-color="#8d6328"/></linearGradient>
+  </defs>
+  <rect width="700" height="700" rx="24" fill="url(#bg)"/>
+  <path d="M170 160 L530 190 L500 520 L190 540 Z" fill="url(#gold)"/>
+  <path d="M170 160 L390 110 L530 190 L300 240 Z" fill="#e1bd62"/>
+  <path d="M300 240 L530 190 L500 520 L290 470 Z" fill="#6d4917"/>
+  <circle cx="355" cy="330" r="75" fill="#18140f"/>
+  <text x="355" y="342" text-anchor="middle" font-family="Arial" font-size="25" fill="#f3e4bc">WAX</text>
+</svg>
