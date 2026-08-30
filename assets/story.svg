@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1000">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090909"/>
+      <stop offset="1" stop-color="#161617"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0d18a"/>
+      <stop offset="0.55" stop-color="#bd8b38"/>
+      <stop offset="1" stop-color="#8e6427"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1000" rx="34" fill="url(#bg)"/>
+  <rect x="38" y="38" width="824" height="924" rx="42" fill="none" stroke="#b2863a" stroke-opacity="0.65" stroke-width="2"/>
+  <circle cx="450" cy="436" r="270" fill="#101113" stroke="#d4b067" stroke-opacity="0.6" stroke-width="2"/>
+  <circle cx="450" cy="436" r="233" fill="none" stroke="#d4b067" stroke-opacity="0.16" stroke-width="2"/>
+  <path d="M349 284c35-50 93-76 153-66 97 17 151 125 115 215-25 61-81 91-111 145-24 43-25 94-16 143" fill="none" stroke="#e6c67a" stroke-width="7" stroke-linecap="round"/>
+  <path d="M392 389c51-37 109-40 169-13" fill="none" stroke="url(#gold)" stroke-width="13" stroke-linecap="round"/>
+  <path d="M403 430c31 17 64 19 97 4" fill="none" stroke="#b7a291" stroke-width="5" stroke-linecap="round"/>
+  <path d="M500 523c39 18 78 14 109-10" fill="none" stroke="#9d826f" stroke-width="5" stroke-linecap="round"/>
+  <path d="M154 790c178-42 384-38 591 22" fill="none" stroke="#c69a4b" stroke-width="3" stroke-dasharray="10 13"/>
+  <text x="104" y="895" font-family="Georgia, serif" font-size="144" fill="#be9650" fill-opacity="0.1">02</text>
+  <text x="450" y="912" text-anchor="middle" font-family="Georgia, serif" font-size="32" fill="#d4b067" letter-spacing="5">CARE · PRECISION · BEAUTY</text>
+</svg>

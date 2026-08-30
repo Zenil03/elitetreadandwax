@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 820">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a0a0b"/><stop offset="1" stop-color="#171718"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2d184"/><stop offset="0.55" stop-color="#c59442"/><stop offset="1" stop-color="#8c6227"/></linearGradient>
+  </defs>
+  <rect width="700" height="820" rx="26" fill="url(#bg)"/>
+  <rect x="26" y="26" width="648" height="768" rx="28" fill="none" stroke="#c19344" stroke-opacity="0.66" stroke-width="2"/>
+  <rect x="220" y="185" width="260" height="330" rx="130" fill="#111214" stroke="#d6bd82" stroke-width="3" stroke-opacity="0.45"/>
+  <path d="M278 398c47-58 111-81 187-60" fill="none" stroke="url(#gold)" stroke-width="28" stroke-linecap="round"/>
+  <path d="M165 620l350-330" stroke="#a87930" stroke-width="26" stroke-linecap="round"/>
+  <path d="M144 639l64-61" stroke="#ead9af" stroke-opacity="0.6" stroke-width="48" stroke-linecap="round"/>
+  <circle cx="502" cy="195" r="68" fill="none" stroke="#d7ba77" stroke-opacity="0.5" stroke-width="2"/>
+  <circle cx="502" cy="195" r="43" fill="#2a2116"/>
+</svg>

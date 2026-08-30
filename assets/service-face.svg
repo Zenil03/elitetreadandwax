@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 820">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0b0c"/><stop offset="1" stop-color="#171718"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1cf84"/><stop offset="0.55" stop-color="#c49543"/><stop offset="1" stop-color="#8d6328"/></linearGradient>
+  </defs>
+  <rect width="700" height="820" rx="26" fill="url(#bg)"/>
+  <rect x="26" y="26" width="648" height="768" rx="28" fill="none" stroke="#c19344" stroke-opacity="0.66" stroke-width="2"/>
+  <path d="M394 120c-117 10-196 103-186 230 6 73 42 118 90 160 44 38 62 97 48 161" fill="none" stroke="#e1bd74" stroke-width="8" stroke-linecap="round"/>
+  <path d="M267 289c46-37 98-41 154-15" fill="none" stroke="url(#gold)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M274 339c31 14 60 14 88 0" fill="none" stroke="#c7b6a8" stroke-width="5"/>
+  <path d="M365 442c35 19 70 16 99-7" fill="none" stroke="#9c806a" stroke-width="5" stroke-linecap="round"/>
+  <path d="M134 671c123-89 280-107 426-46" fill="none" stroke="#caa855" stroke-width="3" stroke-dasharray="8 16"/>
+  <text x="78" y="764" font-family="Georgia, serif" font-size="110" fill="#be9650" fill-opacity="0.12">02</text>
+</svg>
